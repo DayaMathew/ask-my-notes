@@ -1,0 +1,5 @@
+
+# Frontend-specific ignored files
+node_modules/
+dist/
+dist-ssr/
